@@ -4,7 +4,7 @@
 
 ## Exmaple
 
-For now you can check the overture.net, it uses **lift** for rendering some pages
+For now you can check the [overture.net](http://github.com/eklam/overture.net), it uses **lift** for rendering some pages
 
 ## License
 
