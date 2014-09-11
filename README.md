@@ -8,4 +8,4 @@ For now you can check the [overture.net](http://github.com/eklam/overture.net), 
 
 ## License
 
-**lift** uses the MIT license, you can [check it here](lift/blob/master/LICENSE)
+**lift** uses the MIT license, you can [check it here](LICENSE)
