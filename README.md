@@ -1,3 +1,5 @@
+[![lift MyGet Build Status](https://www.myget.org/BuildSource/Badge/lift?identifier=e2a6a32e-529f-43d6-9dbf-937664b2fbaa)](https://www.myget.org/)
+
 #lift
 
 **lift** generates Razor cshtml files based on T4 templates
